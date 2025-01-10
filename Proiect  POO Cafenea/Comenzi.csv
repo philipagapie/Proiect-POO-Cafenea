@@ -1,0 +1,11 @@
+ID_Comanda,Nume_Client,Produse_Comandate,Total,Tip_Client
+1001,Radu Mihai,Tort Ciocolata,20.0,Nou
+1002,Georgescu Elena, Ceai Verde,12.0,Fidel
+1003,Pop Anca,Sandwich cu sunca,25.0,Nou
+1004,Dinu Vlad,Latte,15.0,Nou
+1005,Neagu Maria,Espresso,10.0,Fidel
+1006,Marinescu Ioan,Sandwich cu pui,28.0,Fidel
+1007,Petre Cristian,Macchiato,16.0,Nou
+1008,Albu Sorin,Ceai Negru,10.0,Fidel
+1009,Mihalache Ioana,Espresso,10.0,Nou
+1010,Cristea Silvia,Cheesecake,22.0,Fidel

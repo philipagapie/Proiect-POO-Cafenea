@@ -1,0 +1,11 @@
+ID_Produs,Categorie,Subcategorie,Pret,Stoc_Disponibil
+101,Cafea,Espresso,10.0,50
+102,Cafea,Latte,15.0,40
+103,Ceai,Ceai Verde,12.0,30
+104,Desert,Tort Ciocolata,20.0,10
+105,Sandwich,Sandwich cu sunca,25.0,20
+106,Cafea,Cappuccino,18.0,25
+107,Ceai,Ceai Negru,10.0,35
+108,Desert,Cheesecake,22.0,15
+109,Cafea,Macchiato,16.0,30
+110,Sandwich,Sandwich cu pui,28.0,10
