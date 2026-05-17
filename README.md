@@ -1,7 +1,5 @@
 # Proiect-POO-Cafenea
 
-# Cafe Management System (OOP)
-
 ## Overview
 This is a C++ console application that simulates a complete Cafe Management System. The project relies strictly on Object-Oriented Programming principles and uses local CSV files to provide a robust, persistent database for all core cafe operations. 
 
